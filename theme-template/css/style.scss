@@ -1,0 +1,10 @@
+// This is the place for all your custom styling. If you separate your styling into different Sass files,
+// please import them into this one.
+
+// Variables
+$color-primary: #dbdbdb;
+
+// Imports
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,300,500,700');
+@import 'partials/header';
+@import 'partials/footer';

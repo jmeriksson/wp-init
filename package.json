@@ -1,0 +1,26 @@
+{
+  "name": "me222nm-project",
+  "version": "1.0.0",
+  "description": "An application that downloads WordPress and creates a new WordPress-theme.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1dv430/me222nm-project.git"
+  },
+  "author": "Mikael Eriksson (me222nm@student.lnu.se)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/1dv430/me222nm-project/issues"
+  },
+  "homepage": "https://github.com/1dv430/me222nm-project#readme",
+  "dependencies": {
+    "copy-dir": "^0.4.0",
+    "log-symbols": "^3.0.0",
+    "request": "^2.88.0",
+    "yauzl": "^2.10.0"
+  },
+  "devDependencies": {}
+}

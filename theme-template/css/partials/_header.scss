@@ -1,0 +1,23 @@
+header {
+    background-color: $color-primary;
+
+    .logo {
+        color: #000;
+    }
+
+    .primary-nav {
+        justify-content: flex-end;
+        align-items: center;
+        ul {
+            list-style: none;
+            margin: 0;
+            .menu-item {
+                display: inline-block;
+                a {
+                    padding: 10px;
+                    color: #000;
+                }
+            }
+        }
+    }
+}
