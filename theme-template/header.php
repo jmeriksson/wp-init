@@ -13,8 +13,6 @@
     <!-- FONT AWESOME -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
         integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
-    <!-- CUSTOM STYLING -->
-    <link rel="stylesheet" href="<?php echo get_bloginfo('template_directory'); ?>/public/css/style.css">
     
     <!-- FAVICON -->
     <!-- Generate favicon with https://realfavicongenerator.net/ -->
